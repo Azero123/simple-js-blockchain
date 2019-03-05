@@ -1,0 +1,32 @@
+{
+  "name": "simple-js-proof-of-work",
+  "version": "1.0.0",
+  "description": "easy and light weight multi-purpose proof of work implementation",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/simple-js-proof-of-work.git"
+  },
+  "keywords": [
+    "blockchain",
+    "proof-of-work",
+    "bitcoin",
+    "crypto"
+  ],
+  "author": "Azero123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azero123/simple-js-proof-of-work/issues"
+  },
+  "homepage": "https://github.com/Azero123/simple-js-proof-of-work#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "threads": "^0.12.1"
+  }
+}

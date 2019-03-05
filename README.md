@@ -1,2 +1,2 @@
-# simple-js-blockchain
-basic blockchain implementation in javascript
+# simple-js-proof-of-work
+basic proof of work implementation in javascript
